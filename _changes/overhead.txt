@@ -1,0 +1,5 @@
+mods/data/overhead/overhead-hard.json
+mods/songs/overhead/Voices.ogg
+mods/songs/overhead/Inst.ogg
+mods/songs/overhead/voices.ogg
+mods/songs/overhead/inst.ogg
